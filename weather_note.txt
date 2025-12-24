@@ -1,0 +1,6 @@
+Current weather at your location:
+Current: 25.5°C
+High: 25.8°C
+Low: 22.0°C
+TimeZone: Australia/Brisbane
+Location: (-28.0003, 153.4309)
